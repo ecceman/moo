@@ -14,7 +14,7 @@ options:
   -l               Print log
   -i {string,csv}  Input type, default to string
   -o {stdout,csv}  Output type, default to stdout
-  -j J             Threads, defaults to 2
+  -j J             No of threads, defaults to 1, 2 or 4 depending on job list size
 
 examples of use:
 
