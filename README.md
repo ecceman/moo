@@ -61,6 +61,7 @@ Python 3.9 or later
 2. Download git repo to folder
 3. Activate venv: `source /path/to/moo/bin/activate` or use bat file or ps1 file in scripts folder if you're on Windows
 4. Install required packages `/path/to/moo/bin/pip install -r requirements.txt`
+5. Run the script with any parameters to create a .env file. Then modify it.
 
 ## Infoblox access
 API account needs read access to:
